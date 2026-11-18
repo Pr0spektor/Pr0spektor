@@ -1,16 +1,31 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img src="assets/dark.svg" alt="Anton Sheshunov — Strategic Analyst & Engineer" width="1180">
+</picture>
 
-<!--
-**Pr0spektor/Pr0spektor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Strategic analysis where engineering meets capital
 
-Here are some ideas to get you started:
+I turn technical metrics into commercial decisions — macro nowcasting, energy infrastructure, and tokenized real-world assets. 16+ years across subsurface engineering, project risk, and market strategy, now applied to how capital actually gets allocated.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now**
+
+- Advisor, Strategic Research & Analysis — [Momentum Group](https://feelmomentumgroup.com/), Vienna
+- Co-founder — LaimonBros, transparency research on tokenized real-world assets
+
+**Focus**
+
+| Area | In practice |
+| :--- | :--- |
+| Macro nowcasting | GDP and inflation inference, historical back-tests, regime analysis |
+| Energy infrastructure | Geothermal, BESS, PV — technical due diligence and investment strategy |
+| RWA / DeFi | What is actually verifiable in offering documents, custody and redemption mechanics |
+| Data work | Python, SQL, reproducible pipelines, documented assumptions |
+
+**Toolbox** — Python · Pandas · SQL · Jupyter · Git · AI agents · Notion
+
+**Speaking** — International Gas Union reports on the future of energy: Amsterdam, Prague, Nashville, Buenos Aires, Seoul, Samarkand.
+
+**Contact** — [LinkedIn](https://www.linkedin.com/in/anton-sheshunov/) · [feelmomentumgroup.com](https://feelmomentumgroup.com/)
+
+<sub>Banner: hand-built SVG, SMIL animation only, no external dependencies. Follows your GitHub theme automatically.</sub>
